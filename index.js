@@ -221,7 +221,7 @@ function getValidatedAmount(amount) {
   return amount.match(/^[0-9]+(\.[0-9]+)?$/) ? amount : null;
 }
 function txLink(txId) {
-  return `https://beyondcoinexplorer.com/#/transaction/${txId}`;
+  return `https://explorer-ap.avn.network/tx/${txId}`;
 }
 function checkTrunc(tweet) {
   if (tweet.truncated) return tweet.extended_tweet.full_text;
