@@ -1,0 +1,17 @@
+{
+    "bot":{
+      "handle": "@tip_avian",
+      "requiredConfirms": 6
+    },
+    "twitter": {
+      "consumer_key": "****",
+      "consumer_secret": "****",
+      "access_token": "****",
+      "access_token_secret": "****"
+    },
+    "avian": {
+      "username": "avian",
+      "password": "avian",
+      "port": 10701
+    }
+  }

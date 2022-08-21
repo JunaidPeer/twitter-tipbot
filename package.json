@@ -1,0 +1,31 @@
+{
+    "dependencies": {
+      "bitcoin-core": "^2.0.0",
+      "config": "^1.30.0",
+      "twit": "^2.2.11",
+      "winston": "3",
+      "winston-daily-rotate-file": "^3.2.3"
+    },
+    "name": "avian-twitter-tipbot",
+    "version": "1.0.0",
+    "description": "A simple twitter bot to tip users, with altcoins",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/JunaidPeer/twitter-tipbot.git"
+    },
+    "keywords": [
+      "twitter-tipbot",
+      "avian",
+      "avn"
+    ],
+    "author": "Mohammed Junaid Peer",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/JunaidPeer/twitter-tipbot/issues"
+    },
+    "homepage": "https://github.com/JunaidPeer/twitter-tipbot#readme"
+  }
