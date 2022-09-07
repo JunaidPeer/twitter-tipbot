@@ -1,6 +1,6 @@
 {
     "dependencies": {
-      "bitcoin-core": "^2.0.0",
+      "bitcoin-core": "^4.1.0",
       "config": "^1.30.0",
       "twit": "^2.2.11",
       "winston": "3",
